@@ -93,6 +93,7 @@ const App: React.FC = () => {
                                     liveMode: "auto",
                                     syncWithLocation: true,
                                     warnWhenUnsavedChanges: true,
+                                    projectId: "xHAeAg-ZzIpiZ-td4u3l"
                                 }}
                             >
                                 <Routes>

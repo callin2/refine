@@ -7,7 +7,6 @@
     <a href="https://refine.dev/blog/">Blog</a> |
     <a href="https://refine.dev/docs/">Documentation</a>
 </div>
-</div>
 
 <br />
 <br />
